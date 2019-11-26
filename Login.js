@@ -10,7 +10,7 @@ class Login extends Component{
            errors: {}
        }
     }
-    /test
+    //test
 
   handleChange(field, e){         
         let fields = this.state.fields;
